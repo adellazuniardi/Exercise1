@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TO DO APLICATION</string>
+    <string name="etlogin">Masukkan Nama</string>
+    <string name="etpassword">Password</string>
+    <string name="btsin">SIGN IN</string>
+    <string name="btreg">REGISTER</string>
+    <string name="rnama">masukkan nama</string>
+    <string name="remail">masukkan email</string>
+    <string name="rpass">masukkan password</string>
+    <string name="rrepass">masukkan password</string>
+    <string name="brreg">REGISTER</string>
+    <string name="ttask">Masukkan Task</string>
+    <string name="tjentask">Masukkan Jenis Task</string>
+    <string name="tmtask">Masukkan Lama Task</string>
+</resources>
